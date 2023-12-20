@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Drew.![9ulbc9](https://github.com/Drewcavo/Drewcavo/assets/154438085/0fde035b-6aa4-4d43-b0bf-3e9e0ef66919)
+- 👋 Hi, I’m Drew.![9ulbc9])
 
 - 👀 I’m interested in geology and psychology.
 - 🌱 I’m currently learning coding.
